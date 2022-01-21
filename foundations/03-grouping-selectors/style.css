@@ -1,0 +1,14 @@
+.bold,
+.brash {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.bold {
+    background-color: black;
+    color:white;
+}
+
+.brash {
+    background-color: yellow;
+}
